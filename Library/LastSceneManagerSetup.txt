@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ArtnetDMX_Examples/DmxSend_Anim_Mac/Scenes/ArtnetSendReceive.unity
+  isLoaded: 1
+  isActive: 1
